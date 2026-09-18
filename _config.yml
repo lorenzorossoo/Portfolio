@@ -1,0 +1,17 @@
+title: Nome Rosso
+description: "Chinesiologo - Coaching endurance (ciclismo e corsa) e forza"
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - README.md

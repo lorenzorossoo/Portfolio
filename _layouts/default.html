@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title }}{% if page.title %} | {% endif %}Nome Rosso</title>
+<meta name="description" content="{{ page.excerpt | default: site.description }}">
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="nav-inner">
+    <a href="{{ '/' | relative_url }}" class="logo">Nome <span class="accent">Rosso</span></a>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="{{ '/' | relative_url }}#chi-sono">Chi sono</a></li>
+        <li><a href="{{ '/' | relative_url }}#servizi">Servizi</a></li>
+        <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/' | relative_url }}#contatti" class="btn-nav">Contattami</a></li>
+      </ul>
+    </nav>
+    <button class="menu-toggle" aria-label="Apri menu">&#9776;</button>
+  </div>
+</header>
+
+{{ content }}
+
+<footer class="footer">
+  <div class="container">
+    <p>&copy; 2026 Nome Rosso &ndash; Chinesiologo. Tutti i diritti riservati.</p>
+  </div>
+</footer>
+
+<script src="{{ '/script.js' | relative_url }}"></script>
+</body>
+</html>
