@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Blog | Nome Rosso</title>
+<meta name="description" content="Articoli su test, dati e casi reali di allenamento, ciclismo e biomeccanica.">
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Nome <span class="accent">Rosso</span></a>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="index.html#chi-sono">Chi sono</a></li>
+        <li><a href="index.html#servizi">Servizi</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="index.html#contatti" class="btn-nav">Contattami</a></li>
+      </ul>
+    </nav>
+    <button class="menu-toggle" aria-label="Apri menu">&#9776;</button>
+  </div>
+</header>
+
+<section class="section" style="padding-top: 70px;">
+  <div class="container">
+    <h2>Blog</h2>
+    <p class="section-intro" style="text-align: left; margin-left: 0;">Pubblico articoli occasionali su test fatti con gli atleti, miglioramenti misurati e casi pratici. Niente contenuti riempitivo, solo ciò che ha davvero un dato o un risultato dietro.</p>
+
+    <div class="blog-list">
+      <a href="blog/articolo-esempio.html" class="blog-item">
+        <div class="blog-item-content">
+          <div class="blog-item-title">Titolo primo articolo di esempio</div>
+          <div class="blog-item-excerpt">Breve descrizione dell'articolo, una o due righe che anticipano il contenuto.</div>
+        </div>
+        <div class="blog-item-date">Settembre 2026</div>
+      </a>
+      <!--
+      Per aggiungere un nuovo articolo:
+      1. Copia il file blog/articolo-esempio.html e rinominalo (es. blog/test-vo2max.html)
+      2. Modifica titolo, data e testo dentro il nuovo file
+      3. Aggiungi qui sotto un nuovo blocco <a class="blog-item"> che punta al nuovo file
+      -->
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <p>&copy; 2026 Nome Rosso &ndash; Chinesiologo. Tutti i diritti riservati.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
