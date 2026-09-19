@@ -325,13 +325,18 @@ a:hover { text-decoration: underline; }
 /* Social icons */
 .social-icons {
   display: flex;
-  gap: 14px;
-  margin-top: 28px;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  margin-top: 24px;
 }
 
 .social-icon {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
+  min-width: 32px;
+  min-height: 32px;
+  flex: 0 0 32px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -339,11 +344,15 @@ a:hover { text-decoration: underline; }
   border-radius: 50%;
   color: var(--ink);
   transition: all 0.2s ease;
+  overflow: hidden;
 }
 
 .social-icon svg {
-  width: 18px;
-  height: 18px;
+  width: 14px;
+  height: 14px;
+  max-width: 14px;
+  max-height: 14px;
+  display: block;
 }
 
 .social-icon:hover {
