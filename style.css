@@ -321,3 +321,33 @@ a:hover { text-decoration: underline; }
   .hero h1 { font-size: 2rem; }
   .blog-item { flex-direction: column; gap: 6px; }
 }
+
+/* Social icons */
+.social-icons {
+  display: flex;
+  gap: 14px;
+  margin-top: 28px;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--ink);
+  transition: all 0.2s ease;
+}
+
+.social-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+.social-icon:hover {
+  background: var(--red);
+  border-color: var(--red);
+  color: var(--bg);
+}
