@@ -360,3 +360,16 @@ a:hover { text-decoration: underline; }
   border-color: var(--red);
   color: var(--bg);
 }
+
+.about-more {
+  font-size: 0.95rem;
+  padding: 14px 18px;
+  background: var(--bg-alt);
+  border-left: 3px solid var(--red);
+  border-radius: 0 4px 4px 0;
+  margin-bottom: 18px !important;
+}
+
+.about-more a {
+  font-weight: 600;
+}
