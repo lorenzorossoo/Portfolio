@@ -313,4 +313,4 @@ Ripensandoci, avevo quasi i brividi.
 
 Perché quella che qualche settimana prima sembrava semplicemente una follia, alla fine era diventata realtà.
 
-![La luce in fondo al tunnel](assets/everesting/fotoDiscesa.jpg)
+![La luce in fondo al tunnel](/Portfolio/assets/everesting/fotoDiscesa.jpg)
