@@ -1,6 +1,6 @@
 ---
 title: "L'Everesting: la mia più grande sfida"
-date: 2026-10-1
+date: 2026-09-22
 excerpt: "Un breve racconto della mia più grande sfida sportiva fatta fin'ora, raggiungere gli 8848m dsl+"
 ---
 
