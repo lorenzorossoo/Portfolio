@@ -15,11 +15,11 @@ Perché ci si spinge a fare questo? Di base non c'è un vero e proprio motivo: o
 
 L'Everesting è una sfida apparentemente semplice nella sua definizione: bisogna accumulare 8.848 metri di dislivello positivo, l'equivalente dell'altezza del Monte Everest, all'interno di un'unica attività continua.
 
-Nel formato originale, quello che ho scelto per il mio tentativo, bisogna individuare una **\*\*singola salita\*\*** e ripeterla fino a raggiungere il dislivello richiesto. Ogni ripetizione deve essere una salita completa e deve essere seguita dalla relativa discesa, effettuata in bicicletta. Non è quindi possibile farsi riportare alla base con un'auto o con un altro mezzo.
+Nel formato originale, quello che ho scelto per il mio tentativo, bisogna individuare una **singola salita** e ripeterla fino a raggiungere il dislivello richiesto. Ogni ripetizione deve essere una salita completa e deve essere seguita dalla relativa discesa, effettuata in bicicletta. Non è quindi possibile farsi riportare alla base con un'auto o con un altro mezzo.
 
 La discesa deve normalmente avvenire sulla stessa strada della salita, salvo situazioni in cui questo non sia possibile, come nel caso di una strada a senso unico.
 
-Durante l'Everesting è possibile fermarsi per mangiare, bere, riposarsi, cambiare abbigliamento o effettuare interventi sulla bicicletta. L'unica cosa che non è consentita è **\*\*dormire\*\***: l'intero tentativo deve essere completato senza dormire e all'interno di una singola attività.
+Durante l'Everesting è possibile fermarsi per mangiare, bere, riposarsi, cambiare abbigliamento o effettuare interventi sulla bicicletta. L'unica cosa che non è consentita è **dormire**: l'intero tentativo deve essere completato senza dormire e all'interno di una singola attività.
 
 Il dispositivo di registrazione deve rimanere attivo per tutta la durata del tentativo. Una volta raggiunti gli 8.848 metri, non è necessario completare l'ultima ripetizione: si può terminare il tentativo nel punto in cui viene raggiunto il dislivello richiesto.
 
@@ -27,7 +27,7 @@ Infine, l'attività deve essere registrata su Strava e sottoposta alla verifica 
 
 ## Quanto è duro un everesting?
 
-A prima vista, un Everesting potrebbe sembrare quasi un problema matematico: trovare una salita, ripeterla abbastanza volte e arrivare a **\*\*8.848 metri di dislivello positivo\*\***.
+A prima vista, un Everesting potrebbe sembrare quasi un problema matematico: trovare una salita, ripeterla abbastanza volte e arrivare a **8.848 metri di dislivello positivo**.
 
 Il problema è che, quando inizi a trasformare quel numero in qualcosa di concreto, la prospettiva cambia completamente.
 
@@ -35,21 +35,21 @@ Il problema è che, quando inizi a trasformare quel numero in qualcosa di concre
 
 Il primo numero da capire è, ovviamente, questo:
 
-**\*\*8.848 metri di dislivello positivo.\*\***
+**8.848 metri di dislivello positivo.**
 
 È l'altezza ufficiale del Monte Everest e rappresenta il traguardo di un Full Everesting.
 
 Ma 8.848 metri non significano semplicemente "tanta salita". Significano che, per arrivare a quel numero, bisogna continuare a pedalare anche quando la fatica accumulata è già enorme.
 
-Per avere un'idea più concreta, prendiamo come riferimento i dati di uno studio scientifico che ha analizzato migliaia di Everesting completati. La pendenza media delle salite utilizzate era di circa **\*\*7,57%\*\***.
+Per avere un'idea più concreta, prendiamo come riferimento i dati di uno studio scientifico che ha analizzato migliaia di Everesting completati. La pendenza media delle salite utilizzate era di circa **7,57%**.
 
 A questa pendenza, per accumulare 8.848 metri di dislivello servirebbero teoricamente circa:
 
-**\*\*117 km di sola salita.\*\***
+**117 km di sola salita.**
 
 E naturalmente, quei 117 km non sono il totale della pedalata: ogni salita deve essere accompagnata dalla relativa discesa.
 
-Il risultato è quindi un'uscita che può facilmente trasformarsi in **\*\*centinaia di chilometri\*\***, a seconda della salita scelta.
+Il risultato è quindi un'uscita che può facilmente trasformarsi in **centinaia di chilometri**, a seconda della salita scelta.
 
 ### Non è una salita. È la stessa salita decine di volte.
 
@@ -57,7 +57,7 @@ Ed è probabilmente questo l'aspetto più difficile da spiegare a chi non ha mai
 
 Se una salita permette di guadagnare 250 metri di dislivello, per arrivare a 8.848 metri servono circa:
 
-**\*\*35,4 salite.\*\***
+**35,4 salite.**
 
 Significa quindi passare continuamente da:
 
@@ -65,7 +65,7 @@ Significa quindi passare continuamente da:
 
 fino a quando quel numero sul ciclocomputer non raggiunge 8.848.
 
-In uno studio che ha analizzato **\*\*22.747 tentativi completati\*\***, il numero di ripetizioni aveva una media di circa **\*\*63\*\***, anche se la variabilità era enorme: alcuni percorsi richiedevano pochissime ripetizioni, mentre altri arrivavano a centinaia.
+In uno studio che ha analizzato **22.747 tentativi completati**, il numero di ripetizioni aveva una media di circa **63**, anche se la variabilità era enorme: alcuni percorsi richiedevano pochissime ripetizioni, mentre altri arrivavano a centinaia.
 
 La salita scelta diventa quindi una parte fondamentale della strategia.
 
@@ -79,13 +79,13 @@ Anche qui non esiste un tempo "standard".
 
 Dipende dalla pendenza, dalla lunghezza della salita, dal livello dell'atleta, dalla strategia e dalle condizioni della giornata.
 
-Lo studio scientifico sui tentativi di Everesting ha mostrato che **\*\*tutti i tentativi conclusi in meno di 10 ore\*\*** erano stati effettuati su salite con una pendenza media superiore al 7%. Al contrario, scegliere una salita con una pendenza inferiore al 7% portava nella maggior parte dei casi a superare le **\*\*20 ore\*\***.
+Lo studio scientifico sui tentativi di Everesting ha mostrato che **tutti i tentativi conclusi in meno di 10 ore** erano stati effettuati su salite con una pendenza media superiore al 7%. Al contrario, scegliere una salita con una pendenza inferiore al 7% portava nella maggior parte dei casi a superare le **20 ore**.
 
 Questo fa capire quanto possa essere lunga una giornata del genere.
 
 Non si tratta quindi semplicemente di essere abbastanza forti da salire una montagna.
 
-Bisogna essere in grado di **\*\*ripetere quello sforzo per moltissime ore\*\***.
+Bisogna essere in grado di **ripetere quello sforzo per moltissime ore**.
 
 ### La fatica non è solo nelle gambe
 
@@ -105,7 +105,7 @@ Continuare a prestare attenzione quando la stanchezza aumenta.
 
 E soprattutto continuare a pedalare quando il corpo comincia a chiederti di smettere.
 
-L'Everesting è quindi contemporaneamente una prova di **\*\*resistenza fisica, gestione dello sforzo, alimentazione e capacità mentale\*\***.
+L'Everesting è quindi contemporaneamente una prova di **resistenza fisica, gestione dello sforzo, alimentazione e capacità mentale**.
 
 ### E c'è un dettaglio psicologico
 
@@ -115,7 +115,7 @@ Dopo una normale salita, arrivi in cima e hai finito.
 
 Durante un Everesting, arrivi in cima e...
 
-**\*\*devi tornare giù.\*\***
+**devi tornare giù.**
 
 Poi devi risalire.
 
@@ -133,15 +133,15 @@ Ma ne mancano ancora 2.848.
 
 Ed è proprio questa progressione a rendere l'Everesting qualcosa di diverso da una semplice uscita molto lunga.
 
-\> \*\*Il problema dell'Everesting non è arrivare in cima.
+Il problema dell'Everesting non è arrivare in cima.
 
-\> È sapere che, una volta arrivato, devi tornarci.\*\*
+È sapere che, una volta arrivato, devi tornarci.
 
 ### Quante persone lo hanno fatto?
 
-L'Everesting esiste ufficialmente dal **\*\*2014\*\***.
+L'Everesting esiste ufficialmente dal **2014**.
 
-Da allora, la piattaforma ufficiale ha registrato oltre **\*\*37.000 attività completate\*\***, con più di **\*\*21.000 atleti\*\*** e partecipanti provenienti da oltre **\*\*125 Paesi\*\***.
+Da allora, la piattaforma ufficiale ha registrato oltre **37.000 attività completate**, con più di **21.000 atleti** e partecipanti provenienti da oltre **125 Paesi**.
 
 Sono numeri che possono sembrare grandi, ma bisogna interpretarli correttamente.
 
@@ -149,7 +149,7 @@ Non esiste infatti un registro completo di tutte le persone che hanno iniziato u
 
 Quello che sappiamo è quante persone hanno portato a termine un tentativo ufficialmente riconosciuto.
 
-E sono comunque poco più di **\*\*21.000 persone\*\*** in tutto il mondo.
+E sono comunque poco più di **21.000 persone** in tutto il mondo.
 
 ### Quindi, quanto è difficile?
 
@@ -163,29 +163,29 @@ Ma ci sono alcuni numeri che aiutano a capire la dimensione della sfida:
 
 \|---|---:|
 
-\| **\*\*Dislivello\*\*** | 8.848 m+ |
+\| **Dislivello** | 8.848 m+ |
 
-\| **\*\*Altezza equivalente\*\*** | Monte Everest |
+\| **Altezza equivalente** | Monte Everest |
 
-\| **\*\*Pendenza media nel dataset scientifico\*\*** | 7,57% |
+\| **Pendenza media nel dataset scientifico** | 7,57% |
 
-\| **\*\*Ripetizioni medie\*\*** | \~63 |
+\| **Ripetizioni medie** | \~63 |
 
-\| **\*\*Tentativi analizzati nello studio\*\*** | 22.747 |
+\| **Tentativi analizzati nello studio** | 22.747 |
 
-\| **\*\*Tentativi realistici analizzati\*\*** | 2.561 |
+\| **Tentativi realistici analizzati** | 2.561 |
 
-\| **\*\*Everesting completati ufficialmente\*\*** | 37.000+ |
+\| **Everesting completati ufficialmente** | 37.000+ |
 
-\| **\*\*Atleti registrati\*\*** | 21.000+ |
+\| **Atleti registrati** | 21.000+ |
 
-\| **\*\*Paesi rappresentati\*\*** | 125+ |
+\| **Paesi rappresentati** | 125+ |
 
 E questi sono soltanto i numeri.
 
 La vera difficoltà dell'Everesting si capisce soltanto quando quei numeri diventano una strada, una bicicletta, una salita e una domanda che continua a tornare in testa per tutta la giornata:
 
-**\*\*"Quanto manca?"\*\***
+**"Quanto manca?"**
 
 Ed è proprio da qui che inizia il mio Everesting.
 
@@ -193,25 +193,25 @@ Ed è proprio da qui che inizia il mio Everesting.
 
 ### L'idea
 
-La prima volta che ho pensato seriamente a un Everesting è stato quest'anno, dopo il mio primo **\*\*Vinadio-Pinadio\*\***.
+La prima volta che ho pensato seriamente a un Everesting è stato quest'anno, dopo il mio primo **Vinadio-Vinadio**.
 
 Quel giorno avevo superato i 4.000 metri di dislivello per la prima volta. Era giugno, faceva caldo ed ero sicuramente stanco, ma la cosa che mi aveva colpito di più era come stavo fisicamente: nonostante tutto quel dislivello, sentivo di avere ancora qualcosa da dare.
 
 E lì mi è venuto un pensiero abbastanza semplice:
 
-\> *\*"Ma allora posso fare anche di più."\**
+*"Ma allora posso fare anche di più."*
 
 Avevo già visto diversi video di persone che affrontavano sfide apparentemente folli e, guardandoli, mi ero ritrovato a pensare:
 
-\> *\*"Chi sono io per non provare a farlo anche?"\**
+*"Chi sono io per non provare a farlo anche?"*
 
 All'inizio era poco più di un'idea folle. Non ero nemmeno sicuro di crederci davvero. Poi ho iniziato a fare due calcoli, a capire cosa avrebbe significato concretamente e, a un certo punto, ho semplicemente pensato:
 
-**\*\*Proviamoci.\*\***
+**Proviamoci.**
 
 ### La salita
 
-La salita scelta era quasi naturale: **\*\*Chalet Le Marmotte\*\***.
+La salita scelta era quasi naturale: **Chalet Le Marmotte**.
 
 La conosco bene, la faccio spesso ed è una delle mie salite preferite della zona. Durante un normale allenamento in bici, mentre la stavo percorrendo, ho iniziato a guardarla con occhi diversi.
 
@@ -226,13 +226,13 @@ Una salita abbastanza lunga, regolare, senza pendenze impossibili, che conoscevo
 
 C'era poi un altro motivo.
 
-Il **\*\*20 luglio mi sono laureato\*\*** in Scienze Motorie. Volevo trovare un modo per festeggiare e, visto che ero a casa, avevo tempo e non avevo particolari impegni, ho pensato:
+Il **20 luglio mi sono laureato** in Scienze Motorie. Volevo trovare un modo per festeggiare e, visto che ero a casa, avevo tempo e non avevo particolari impegni, ho pensato:
 
-\> *\*"Voglio festeggiare. Posso farlo. Lo faccio."\**
+*"Voglio festeggiare. Posso farlo. Lo faccio."*
 
 Un Everesting mi sembrava il modo più adatto per farlo.
 
-Dopo anni passati a studiare sport, allenamento e movimento, quale modo migliore per chiudere questo percorso se non con una vera e propria **\*\*follia sportiva\*\***?
+Dopo anni passati a studiare sport, allenamento e movimento, quale modo migliore per chiudere questo percorso se non con una vera e propria **follia sportiva**?
 
 Non era qualcosa che avevo programmato da mesi come regalo di laurea. È semplicemente diventato il modo in cui ho deciso di celebrare quel momento.
 
@@ -242,13 +242,13 @@ Prima di partire ero abbastanza convinto.
 
 Mi dicevo:
 
-\> *\*"Sì, ce la faccio. Mi metto lì pian pianino e vado."\**
+*"Sì, ce la faccio. Mi metto lì pian pianino e vado."*
 
 Poi, però, è arrivata presto la prima difficoltà.
 
 Intorno alla quarta o quinta salita ho avuto il primo vero momento di crisi. Ho iniziato a rendermi conto di quanto tempo stesse passando e mi è venuto un dubbio:
 
-**\*\*E se non riuscissi a finire prima che faccia buio?\*\***
+**E se non riuscissi a finire prima che faccia buio?**
 
 Era ancora presto per parlare di fallimento, ma per la prima volta ho iniziato a percepire davvero la dimensione della cosa.
 
@@ -262,9 +262,9 @@ Ho smesso di guardare continuamente il dislivello sul Garmin.
 
 Non perché non volessi sapere come stavo andando, ma perché non volevo finire a pensare a ogni singolo metro che mancava. Guardare continuamente quel numero avrebbe significato vedere il traguardo ancora troppo lontano.
 
-Ho continuato invece a controllare **\*\*tempo, frequenza cardiaca e potenza\*\***, perché volevo sapere come stavo andando e soprattutto evitare di esagerare.
+Ho continuato invece a controllare **tempo, frequenza cardiaca e potenza**, perché volevo sapere come stavo andando e soprattutto evitare di esagerare.
 
-Ogni giro, salita più discesa, durava circa **\*\*42 minuti\*\***, con variazioni minime: generalmente tra i 41 e i 43 minuti.
+Ogni giro, salita più discesa, durava circa **42 minuti**, con variazioni minime: generalmente tra i 41 e i 43 minuti.
 
 La macchina era parcheggiata nel punto in cui terminavo ogni giro. Lì potevo fermarmi, riempire la borraccia, mangiare qualcosa e ripartire.
 
@@ -274,7 +274,7 @@ Pensavo semplicemente al giro successivo.
 
 ### E poi qualcosa è cambiato
 
-La cosa più strana è che, andando avanti, ho iniziato a sentirmi **\*\*meglio\*\***.
+La cosa più strana è che, andando avanti, ho iniziato a sentirmi **meglio**.
 
 Fisicamente e mentalmente.
 
@@ -291,23 +291,21 @@ Una salita alla volta.
 ![Il gruppetto](/Portfolio/assets/everesting/gruppoEveresting.JPG)
 *Durante la giornata si sono alternati diversi amici: qualcuno per poche salite, qualcuno per molto più tempo.*
 
-*Durante la giornata si sono alternati diversi amici: qualcuno per poche salite, qualcuno per molto più tempo.*
-
 ### L'ultimo giro
 
-Quando ho finalmente raggiunto gli **\*\*8.848 metri\*\***, l'Everesting era fatto.
+Quando ho finalmente raggiunto gli **8.848 metri**, l'Everesting era fatto.
 
 Ma ero ancora sulla salita.
 
 E visto che ormai mancava poco alla fine del giro, ho deciso di continuare.
 
-\> *\*"Già che ci sono, manca poco. Finiamola."\**
+*"Già che ci sono, manca poco. Finiamola."*
 
-Così ho completato anche l'ultima salita, arrivando a un totale di **\*\*9.007 metri di dislivello\*\*** e **\*\*235,49 km\*\***.
+Così ho completato anche l'ultima salita, arrivando a un totale di **9.007 metri di dislivello** e **235,49 km**.
 
 A quel punto ero entusiasta, ma anche completamente distrutto.
 
-Avevo pedalato per **\*\*12 ore e 40 minuti\*\***, 15 ore e 35 minuti di tempo totale, consumato circa **\*\*7.132 kcal\*\*** e prodotto **\*\*6.141 kJ di lavoro\*\***.
+Avevo pedalato per **12 ore e 40 minuti**, 15 ore e 35 minuti di tempo totale, consumato circa **7.132 kcal** e prodotto **6.141 kJ di lavoro**.
 
 Ero così stanco che, una volta finito, facevo quasi fatica a mangiare.
 
