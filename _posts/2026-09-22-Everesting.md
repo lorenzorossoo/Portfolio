@@ -159,10 +159,6 @@ Non esiste un voto alla difficoltà di un Everesting.
 
 Ma ci sono alcuni numeri che aiutano a capire la dimensione della sfida:
 
-\| | |
-
-\|---|---:|
-
 \| **Dislivello** | 8.848 m+ |
 
 \| **Altezza equivalente** | Monte Everest |
