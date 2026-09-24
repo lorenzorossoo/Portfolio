@@ -33,8 +33,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const MIN_DISPLAY_TIME = 900;
   const start = Date.now();
+  let hidden = false;
 
   function hideSplash() {
+    if (hidden) return;
+    hidden = true;
+
     const elapsed = Date.now() - start;
     const wait = Math.max(MIN_DISPLAY_TIME - elapsed, 0);
 
@@ -43,14 +47,14 @@ document.addEventListener('DOMContentLoaded', function () {
       document.body.classList.remove('splash-active');
 
       setTimeout(function () {
-        splash.remove();
+        if (splash.parentNode) {
+          splash.parentNode.removeChild(splash);
+        }
       }, 650);
     }, wait);
   }
 
-  if (document.readyState === 'complete') {
-    hideSplash();
-  } else {
-    window.addEventListener('load', hideSplash);
-  }
+  window.addEventListener('load', hideSplash);
+
+  setTimeout(hideSplash, 3000);
 });
