@@ -777,3 +777,14 @@ a:hover {
     overflow: hidden;
   }
 }
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .mobile-only {
+    display: list-item;
+  }
+}
+
