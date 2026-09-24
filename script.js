@@ -24,11 +24,18 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 
-
 document.addEventListener('DOMContentLoaded', function () {
   const splash = document.getElementById('splash-screen');
   if (!splash) return;
 
+  const alreadyShown = sessionStorage.getItem('splashShown');
+
+  if (alreadyShown) {
+    splash.remove();
+    return;
+  }
+
+  sessionStorage.setItem('splashShown', 'true');
   document.body.classList.add('splash-active');
 
   const MIN_DISPLAY_TIME = 1400;
