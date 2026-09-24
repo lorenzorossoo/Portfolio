@@ -576,7 +576,7 @@ a:hover {
 /* Desktop servizi */
 @media (min-width: 860px) {
   .service-card {
-    flex: 0 0 calc(25% - 15px);
+    flex: 0 0 calc(33.333% - 14px);
   }
 
   .scroller-hint {
@@ -616,13 +616,13 @@ a:hover {
   }
 
   .hero-text .hero-image-mobile img {
-    display: block;
-    width: 100%;
-    height: 230px;
-    object-fit: cover;
-    object-position: center 45%;
-    border-radius: 8px;
-  }
+  display: block;
+  width: 100%;
+  height: 380px;
+  object-fit: cover;
+  object-position: center 70%;
+  border-radius: 8px;
+}
 
   .hero h1 {
     font-size: 2rem;
