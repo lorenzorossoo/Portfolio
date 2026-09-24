@@ -831,3 +831,13 @@ a:hover {
 body.splash-active {
   overflow: hidden;
 }
+
+.privacy-note {
+  font-size: 0.82rem;
+  color: var(--gray);
+  margin-top: 16px;
+}
+
+.privacy-note a {
+  font-weight: 600;
+}
