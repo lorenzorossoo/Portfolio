@@ -23,3 +23,34 @@ document.addEventListener('DOMContentLoaded', function () {
     link.addEventListener('click', closeMenu);
   });
 });
+
+
+document.addEventListener('DOMContentLoaded', function () {
+  const splash = document.getElementById('splash-screen');
+  if (!splash) return;
+
+  document.body.classList.add('splash-active');
+
+  const MIN_DISPLAY_TIME = 900;
+  const start = Date.now();
+
+  function hideSplash() {
+    const elapsed = Date.now() - start;
+    const wait = Math.max(MIN_DISPLAY_TIME - elapsed, 0);
+
+    setTimeout(function () {
+      splash.classList.add('fade-out');
+      document.body.classList.remove('splash-active');
+
+      setTimeout(function () {
+        splash.remove();
+      }, 650);
+    }, wait);
+  }
+
+  if (document.readyState === 'complete') {
+    hideSplash();
+  } else {
+    window.addEventListener('load', hideSplash);
+  }
+});

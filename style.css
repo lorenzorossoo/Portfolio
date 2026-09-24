@@ -788,3 +788,46 @@ a:hover {
   }
 }
 
+/* Splash screen */
+#splash-screen {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--red);
+  transition: opacity 0.6s ease, visibility 0.6s ease;
+}
+
+#splash-screen.fade-out {
+  opacity: 0;
+  visibility: hidden;
+}
+
+#splash-logo {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 2.6rem;
+  color: var(--bg);
+  letter-spacing: 0.5px;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: splash-in 0.7s ease forwards;
+}
+
+#splash-logo .accent {
+  color: var(--bg);
+  font-weight: 700;
+}
+
+@keyframes splash-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+body.splash-active {
+  overflow: hidden;
+}

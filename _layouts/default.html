@@ -10,42 +10,45 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-
-<header class="navbar">
-  <div class="nav-inner">
-    <a href="{{ '/' | relative_url }}" class="logo"><span class="accent">Rouge</span> Lab</a>
-
-    <nav>
-      <ul class="nav-links">
-        <li class="mobile-only">
-          <a href="{{ '/' | relative_url }}">Home</a>
-        </li>
-
-        <li>
-          <a href="{{ '/#chi-sono' | relative_url }}">Chi sono</a>
-        </li>
-
-        <li>
-          <a href="{{ '/#servizi' | relative_url }}">Servizi</a>
-        </li>
-
-        <li>
-          <a href="{{ '/blog/' | relative_url }}">Blog</a>
-        </li>
-
-        <li>
-          <a href="{{ '/#contatti' | relative_url }}" class="btn-nav">Contattami</a>
-        </li>
-      </ul>
-    </nav>
-
-    <button class="menu-toggle" aria-label="Apri menu" aria-expanded="false">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+  <div id="splash-screen">
+    <h1 id="splash-logo"><span class="accent">Rouge</span> Lab</h1>
   </div>
-</header>
+
+  <header class="navbar">
+    <div class="nav-inner">
+      <a href="{{ '/' | relative_url }}" class="logo"><span class="accent">Rouge</span> Lab</a>
+
+      <nav>
+        <ul class="nav-links">
+          <li class="mobile-only">
+            <a href="{{ '/' | relative_url }}">Home</a>
+          </li>
+
+          <li>
+            <a href="{{ '/#chi-sono' | relative_url }}">Chi sono</a>
+          </li>
+
+          <li>
+            <a href="{{ '/#servizi' | relative_url }}">Servizi</a>
+          </li>
+
+          <li>
+            <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          </li>
+
+          <li>
+            <a href="{{ '/#contatti' | relative_url }}" class="btn-nav">Contattami</a>
+          </li>
+        </ul>
+      </nav>
+
+      <button class="menu-toggle" aria-label="Apri menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
 
 {{ content }}
 
