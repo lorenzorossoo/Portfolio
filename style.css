@@ -606,3 +606,27 @@ a:hover { text-decoration: underline; }
     width: 100%;
   }
 }
+
+/* Rifiniture home e menu mobile */
+@media (max-width: 800px) {
+  /* Hero: immagine più orizzontale e meno “quadrata” */
+  .hero-image img {
+    height: 260px;
+    max-height: none;
+    object-fit: cover;
+    object-position: center 45%;
+  }
+
+  /* Menu: pulsante Contattami bianco con scritta rossa */
+  .nav-links .btn-nav {
+    background: var(--bg);
+    color: var(--red) !important;
+    border: 1px solid var(--bg);
+  }
+
+  .nav-links .btn-nav:hover {
+    background: transparent;
+    color: var(--bg) !important;
+    border-color: var(--bg);
+  }
+}
