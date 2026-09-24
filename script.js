@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   document.body.classList.add('splash-active');
 
-  const MIN_DISPLAY_TIME = 900;
+  const MIN_DISPLAY_TIME = 1400;
   const start = Date.now();
   let hidden = false;
 
