@@ -630,3 +630,43 @@ a:hover { text-decoration: underline; }
     border-color: var(--bg);
   }
 }
+
+/* Ordine e immagine della hero: mobile */
+.hero-image-mobile {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .hero-inner .hero-image-desktop {
+    display: none !important;
+  }
+
+  .hero-text .hero-image-mobile {
+    display: block !important;
+    width: 100% !important;
+    margin: 30px 0 28px !important;
+  }
+
+  .hero-text .hero-image-mobile img {
+    display: block !important;
+    width: 100% !important;
+    height: 230px !important;
+    max-height: none !important;
+    object-fit: cover !important;
+    object-position: center 45% !important;
+    border-radius: 8px !important;
+  }
+
+  /* Pulsante Contattami: sfondo bianco, testo bordeaux */
+  .nav-links a.btn-nav {
+    background: #ffffff !important;
+    color: #821f31 !important;
+    border: 2px solid #ffffff !important;
+  }
+
+  .nav-links a.btn-nav:hover {
+    background: transparent !important;
+    color: #ffffff !important;
+    border-color: #ffffff !important;
+  }
+}
