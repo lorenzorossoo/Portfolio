@@ -185,7 +185,7 @@ La vera difficoltà dell'Everesting si capisce soltanto quando quei numeri diven
 
 Ed è proprio da qui che inizia il mio Everesting.
 
-## 4. Perché ho deciso di farlo
+## Perché ho deciso di farlo
 
 ### L'idea
 
