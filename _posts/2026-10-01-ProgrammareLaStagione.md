@@ -3,6 +3,7 @@ title: "Programmare la stagione"
 date: 2026-10-01
 excerpt: "Cosa faccio, cosa penso quando devo programmare la stagione, più alcuni consigli utili"
 ---
+
 # Programmare la stagione
 
 Programmare una stagione non significa soltanto decidere quali allenamenti fare. Prima ancora, significa capire perché ci si allena, quali obiettivi si vogliono raggiungere e come organizzare il percorso in modo compatibile con la propria vita.
@@ -35,39 +36,43 @@ Questo non rende inutile la programmazione. Al contrario: significa che la strut
 
 ## La mia stagione 2026–2027
 
-La mia stagione non sarà costruita attorno a una sola disciplina per tutto l'anno. La prima parte sarà orientata soprattutto alla corsa; la seconda avrà invece come obiettivo principale la bici. Le due preparazioni avranno priorità diverse, ma cercherò di farle procedere in modo coordinato e di alternare i focus, senza trattarle come compartimenti completamente separati.
+La mia stagione sarà costruita principalmente attorno alla bici, con l'obiettivo di migliorare la prestazione rispetto al 2026 e arrivare alla gara principale con una preparazione più specifica e continua.
 
-Un elemento costante sarà il calcio. La stagione calcistica proseguirà da settembre 2026 fino ad aprile-maggio 2027, seguendo il calendario abituale. Questo impegno farà parte del quadro di programmazione, insieme alla corsa, alla bici e al lavoro di forza in palestra, che vorrei mantenere durante tutto l'anno.
+La corsa resterà presente come attività complementare, soprattutto quando avrò piccoli spazi di tempo a disposizione e non riuscirò a organizzare un allenamento in bici. Non avrà quindi un calendario di gare o obiettivi propri, ma sarà una possibilità in più per mantenere la continuità degli allenamenti.
 
-### La corsa nella prima parte
+Anche il calcio e la palestra continueranno ad accompagnare la stagione. Rimarranno due costanti nella mia settimana, ma l'intenzione è organizzare gli impegni in modo che condizionino meno la preparazione ciclistica rispetto all'anno precedente.
 
-Durante l'inverno il focus principale sarà la corsa. Sto valutando la possibilità di inserire una mezza maratona a fine 2026, a Milano o a Torino. Non sarebbe l'obiettivo principale per un record personale, ma un'occasione per correre bene, accumulare chilometri e volume e fare esperienza in vista degli obiettivi successivi.
+### Un punto di partenza da cui misurare i miglioramenti
 
-Per il 21 febbraio 2027 è invece in programma la Mezza del Marchesato, sulla distanza classica della mezza maratona. Questa è la gara su cui vorrei concentrare l'obiettivo personale di miglioramento.
+Tra ottobre e novembre 2026 vorrei effettuare una valutazione iniziale per capire da quali valori parto e impostare il lavoro invernale. Non mi interessa conoscere soltanto la FTP: vorrei avere un quadro più ampio delle mie caratteristiche, con diversi valori da confrontare nel corso della preparazione.
 
-In seguito mi piacerebbe preparare la mia prima maratona. Le opzioni che sto valutando sono Roma e Barcellona, entrambe nel periodo di marzo; la scelta non è ancora definitiva. Essendo la mia prima esperienza sulla distanza, vorrei decidere con attenzione, considerando non solo la gara in sé ma anche il percorso di preparazione e la logistica.
+L'idea è usare questa valutazione come punto di partenza e ripetere i test nel corso della stagione, per verificare come cambiano i valori e avere riferimenti concreti con cui valutare il percorso. Non soltanto sensazioni o singole uscite riuscite bene, quindi, ma anche dati che mi aiutino a capire se sto andando nella direzione desiderata.
 
-In inverno la bici resterà presente, ma con un ruolo secondario: la terrò soprattutto a bassa intensità, come attività di supporto e recupero attivo, senza impostare sedute specifiche orientate alla prestazione ciclistica. L'idea è concentrarmi sulla corsa senza abbandonare completamente la bici.
+Durante l'inverno gli allenamenti in bici saranno svolti prevalentemente sui rulli, mantenendo quando possibile un'uscita all'aperto. Vorrei dare continuità a questo lavoro, adattandolo agli impegni settimanali e tenendo conto anche del calcio e delle sedute di forza.
 
-### La bici nella seconda parte
+### Dal 2026 all'obiettivo del 2027
 
-La seconda parte della stagione sarà maggiormente orientata al ciclismo. Nel 2026, però, la preparazione specifica in bici è stata limitata dalla concomitanza con la stagione calcistica, che ho portato avanti fino a maggio. In inverno avevo utilizzato i rulli con allenamenti mirati e, verso marzo, avevo iniziato a inserire uscite outdoor di endurance. Nonostante non avessi ancora svolto una preparazione ciclistica molto specifica né accumulato molto dislivello, il 31 maggio ho partecipato alla mia prima gara della stagione, affrontando 140 km e 2.600 m di dislivello. Il risultato mi ha soddisfatto, soprattutto alla luce della preparazione disponibile in quel periodo.
+Nel 2026 la preparazione specifica in bici è stata limitata dalla concomitanza con la stagione calcistica, che ho portato avanti fino a maggio. In inverno avevo utilizzato i rulli con allenamenti mirati e, verso marzo, avevo iniziato a inserire uscite outdoor di endurance. Nonostante non avessi ancora svolto una preparazione ciclistica molto specifica né accumulato molto dislivello, il 31 maggio ho partecipato alla mia prima gara della stagione, affrontando 140 km e 2.600 m di dislivello. Il risultato mi ha soddisfatto, soprattutto alla luce della preparazione disponibile in quel periodo.
 
 Il 28 giugno ho preso parte alla Granfondo La Fausto Coppi: 170 km e 4.100 m di dislivello. Sono rimasto molto soddisfatto della prova. Col senno di poi penso che avrei potuto fare meglio, ma la gara è andata molto bene e mi ha dato indicazioni utili per il futuro.
 
 Il 27 luglio ho realizzato anche un Everesting, un obiettivo personale che avevo inserito nella stagione. Il 20 settembre ho poi partecipato alla Granfondo di Mondovì. Quest'ultima non era una gara obiettivo: l'ho affrontata come appuntamento secondario, in un periodo in cui arrivavo dalle ferie e non ero al picco della forma.
 
-Per il 2027, la gara ciclistica principale sarà la Granfondo La Fausto Coppi. Vorrei prepararla con più volume e una preparazione più specifica rispetto al 2026, con l'obiettivo di migliorare nettamente il tempo dell'anno precedente. La Granfondo di Mondovì resta un possibile appuntamento secondario.
+Per il 2027, la gara ciclistica principale sarà la Granfondo La Fausto Coppi. L'intenzione è abbassare nettamente il tempo ottenuto nel 2026, arrivandoci con più volume, maggiore continuità e una preparazione più specifica rispetto all'anno precedente. La Granfondo di Mondovì resta un possibile appuntamento secondario, da inserire senza spostare il focus dall'obiettivo principale.
 
-### Forza e incastri tra discipline
+### Calcio, palestra e organizzazione della settimana
 
-Vorrei mantenere gli allenamenti di forza in palestra per tutto l'anno. L'organizzazione potrà alternare sedute con focus sulla parte superiore e inferiore del corpo, in base agli impegni e alle priorità del periodo. La programmazione dovrà tenere insieme calcio, corsa, bici e forza, evitando di considerare ciascuna attività isolatamente.
+Il focus sulla bici non significa eliminare le altre attività. Continuerò a giocare a calcio e vorrei mantenere il lavoro di forza in palestra durante tutto l'anno, alternando sedute con focus sulla parte superiore e inferiore del corpo in base agli impegni e alle priorità del periodo.
 
-Questo è un aspetto importante del mio caso: non sto costruendo dodici mesi dedicati esclusivamente alla bici o alla corsa. Sto cercando di distribuire le priorità nel tempo, mantenendo più attività e adattando il carico complessivo. La scelta concreta di quanto e come allenarmi dovrà quindi tenere conto della risposta alle settimane di lavoro, non soltanto del calendario delle gare.
+La programmazione dovrà quindi tenere insieme tutte queste attività, senza considerarle separatamente. L'obiettivo è dare più spazio alla preparazione ciclistica, mantenendo calcio e palestra e utilizzando la corsa quando si inserisce meglio nel tempo disponibile.
+
+Il calendario darà una direzione al lavoro, ma l'organizzazione concreta dovrà restare flessibile: quanto e come allenarmi dipenderà anche da come risponderò alle settimane di preparazione, non soltanto dalla distanza che mi separa dalla gara.
 
 ## Cosa porto con me
 
-La mia esperienza del 2026 mi ha mostrato quanto il contesto condizioni la preparazione. Ho ottenuto risultati che mi hanno soddisfatto anche senza aver svolto una lunga preparazione specifica in bici, ma per il prossimo obiettivo ciclistico voglio arrivare con più volume e con un lavoro più mirato. Nel frattempo, la prima parte della nuova stagione sarà dedicata soprattutto alla corsa e si intreccerà con il calcio e con il mantenimento della forza.
+La mia esperienza del 2026 mi ha mostrato quanto il contesto condizioni la preparazione. Ho ottenuto risultati che mi hanno soddisfatto anche senza aver svolto una lunga preparazione specifica in bici, ma per il prossimo obiettivo ciclistico voglio arrivare con più volume e con un lavoro più mirato.
+
+La nuova stagione avrà quindi la bici come priorità principale fin dall'inverno, affiancata dal calcio e dal lavoro di forza. La corsa resterà un'attività complementare, da inserire soprattutto quando avrò poco tempo a disposizione. I test saranno un riferimento per valutare il punto di partenza e monitorare i cambiamenti durante la preparazione.
 
 Per chi programma la propria stagione, il principio che mi sembra più utile è partire dal motivo per cui ci si allena. Da lì si definiscono gli obiettivi, si considerano il tempo e gli impegni disponibili, si mettono in ordine le priorità e si costruisce una traccia flessibile. Non serve gareggiare per avere un obiettivo: anche prepararsi a vivere bene un'estate di uscite in bici può essere una ragione sufficiente per allenarsi con continuità.
 
@@ -75,7 +80,7 @@ La programmazione migliore non è quella più complicata, né quella che sembra 
 
 ## Vuoi programmare la tua stagione?
 
-Se vuoi confrontarti sui tuoi obiettivi e costruire un percorso di allenamento adatto alle tue esigenze, [scrivimi dalla scheda contatti](/contatti/).
+Se vuoi confrontarti sui tuoi obiettivi e costruire un percorso di allenamento adatto alle tue esigenze, [visita il mio sito](https://lorenzorossoo.github.io/Portfolio/) e scrivimi attraverso la sezione contatti che trovi in fondo alla homepage.
 
 ## Riferimenti
 
