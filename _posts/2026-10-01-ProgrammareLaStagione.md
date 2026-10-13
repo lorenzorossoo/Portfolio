@@ -80,7 +80,7 @@ La programmazione migliore non è quella più complicata, né quella che sembra 
 
 ## Vuoi programmare la tua stagione?
 
-Se vuoi confrontarti sui tuoi obiettivi e costruire un percorso di allenamento adatto alle tue esigenze, [visita il mio sito](https://lorenzorossoo.github.io/Portfolio/) e scrivimi attraverso la sezione contatti che trovi in fondo alla homepage.
+Se vuoi confrontarti sui tuoi obiettivi e costruire un percorso di allenamento adatto alle tue esigenze, [scrivimi dalla sezione contatti](https://lorenzorossoo.github.io/Portfolio/#contatti).
 
 ## Riferimenti
 
