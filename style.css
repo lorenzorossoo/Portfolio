@@ -841,3 +841,20 @@ body.splash-active {
 .privacy-note a {
   font-weight: 600;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+table th,
+table td {
+  border: 1px solid #888;
+  padding: 10px 12px;
+  text-align: left;
+}
+
+table th {
+  font-weight: 600;
+}

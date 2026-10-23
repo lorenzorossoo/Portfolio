@@ -34,11 +34,46 @@ Le ultime settimane di ottobre saranno dedicate a una prima valutazione della pr
 
 Per stimare Critical Power (CP) e W′ utilizzerò tre prove massimali a durata fissa, distribuite su giornate separate:
 
-| Seduta | Prova | Dato registrato |
-| --- | --- | --- |
-| 1 | 3 minuti | Potenza media sui 180 secondi |
-| 2 | 5 minuti | Potenza media sui 300 secondi |
-| 3 | 12 minuti | Potenza media sui 720 secondi |
+<div style="overflow-x: auto; margin: 1.5em 0;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th style="border: 1px solid #888; padding: 10px 12px; text-align: left;">
+          Seduta
+        </th>
+        <th style="border: 1px solid #888; padding: 10px 12px; text-align: left;">
+          Prova
+        </th>
+        <th style="border: 1px solid #888; padding: 10px 12px; text-align: left;">
+          Dato registrato
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #888; padding: 10px 12px;">1</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">3 minuti</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">
+          Potenza media sui 180 secondi
+        </td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #888; padding: 10px 12px;">2</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">5 minuti</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">
+          Potenza media sui 300 secondi
+        </td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #888; padding: 10px 12px;">3</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">12 minuti</td>
+        <td style="border: 1px solid #888; padding: 10px 12px;">
+          Potenza media sui 720 secondi
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Tra le sedute lascerò indicativamente 24/48 ore, con riposo o allenamento facile, cercando di arrivare alle prove in condizioni di recupero comparabili.
 
@@ -67,7 +102,13 @@ I dati inseriti saranno le potenze medie dei singoli intervalli, non le potenze 
 
 Il modello a due parametri descrive la relazione tra potenza e durata:
 
-$$P(t) = CP + \frac{W'}{t}$$
+<div style="text-align: center; margin: 1.5em 0; font-size: 1.3em;">
+  <i>P</i>(<i>t</i>) = CP +
+  <span style="display: inline-flex; flex-direction: column; vertical-align: middle; text-align: center; line-height: 1.2;">
+    <span style="border-bottom: 1px solid currentColor; padding: 0 0.25em 0.1em;">W′</span>
+    <span style="padding-top: 0.1em;"><i>t</i></span>
+  </span>
+</div>
 
 
 Nell’equazione, P è la potenza in watt, t la durata in secondi e W′ il lavoro in joule. Per una lettura più immediata, riporterò W′ in kilojoule.
