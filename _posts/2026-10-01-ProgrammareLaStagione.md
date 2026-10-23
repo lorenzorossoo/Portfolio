@@ -4,7 +4,7 @@ date: 2026-10-01
 excerpt: "Cosa faccio, cosa penso quando devo programmare la stagione, più alcuni consigli utili"
 ---
 
-# Programmare la stagione
+# Programmare
 
 Programmare una stagione non significa soltanto decidere quali allenamenti fare. Prima ancora, significa capire perché ci si allena, quali obiettivi si vogliono raggiungere e come organizzare il percorso in modo compatibile con la propria vita.
 
@@ -77,6 +77,8 @@ La nuova stagione avrà quindi la bici come priorità principale fin dall'invern
 Per chi programma la propria stagione, il principio che mi sembra più utile è partire dal motivo per cui ci si allena. Da lì si definiscono gli obiettivi, si considerano il tempo e gli impegni disponibili, si mettono in ordine le priorità e si costruisce una traccia flessibile. Non serve gareggiare per avere un obiettivo: anche prepararsi a vivere bene un'estate di uscite in bici può essere una ragione sufficiente per allenarsi con continuità.
 
 La programmazione migliore non è quella più complicata, né quella che sembra perfetta sulla carta. È quella che ha senso per la persona che la segue, che può essere adattata quando serve e che mantiene un legame chiaro tra ciò che si fa in allenamento e ciò che si vuole ottenere.
+
+Come si tradurrà tutto questo nella pratica? In [La mia prossima stagione]({% post_url 2026-11-1-LaMiaFineStagioneEInizioProssima %}) approfondisco come organizzerò gli allenamenti e perché ho scelto questa impostazione, mettendo in relazione obiettivi personali, vincoli settimanali ed evidenze scientifiche.
 
 ## Vuoi programmare la tua stagione?
 
