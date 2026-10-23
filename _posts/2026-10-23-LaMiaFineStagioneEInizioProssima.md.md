@@ -78,7 +78,7 @@ Per chi programma la propria stagione, il principio che mi sembra più utile è 
 
 La programmazione migliore non è quella più complicata, né quella che sembra perfetta sulla carta. È quella che ha senso per la persona che la segue, che può essere adattata quando serve e che mantiene un legame chiaro tra ciò che si fa in allenamento e ciò che si vuole ottenere.
 
-Come si tradurrà tutto questo nella pratica? In [La mia prossima stagione]({% post_url 2026-10-1-LaMiaFineStagioneEInizioProssima %}) approfondisco come organizzerò gli allenamenti e perché ho scelto questa impostazione, mettendo in relazione obiettivi personali, vincoli settimanali ed evidenze scientifiche.
+Come si tradurrà tutto questo nella pratica? In [La mia prossima stagione]({{ site.baseurl }}{% post_url 2026-10-23-LaMiaFineStagioneEInizioProssima %}) approfondisco come organizzerò gli allenamenti e perché ho scelto questa impostazione, mettendo in relazione obiettivi personali, vincoli settimanali ed evidenze scientifiche.
 
 ## Vuoi programmare la tua stagione?
 
