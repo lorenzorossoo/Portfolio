@@ -1,5 +1,9 @@
-title: "La mia stagione futura"
+---
+title: "La mia prossima stagione"
 date: 2026-10-23
-excerpt: "Cosa, come e perchè farò questi allenamenti per la mia stagione futura [NERD POST]"
+excerpt: "Cosa farò, come organizzerò gli allenamenti e perché: le scelte per la mia prossima stagione [NERD POST]"
+---
 
-#Seasson o
+## Da dove parto
+
+Qui inizia il testo dell’articolo.
