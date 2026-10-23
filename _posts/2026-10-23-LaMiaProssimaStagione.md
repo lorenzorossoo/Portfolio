@@ -67,9 +67,8 @@ I dati inseriti saranno le potenze medie dei singoli intervalli, non le potenze 
 
 Il modello a due parametri descrive la relazione tra potenza e durata:
 
-\[
-P(t) = CP + \frac{W′}{t}
-\]
+$$P(t) = CP + \frac{W'}{t}$$
+
 
 Nell’equazione, P è la potenza in watt, t la durata in secondi e W′ il lavoro in joule. Per una lettura più immediata, riporterò W′ in kilojoule.
 
@@ -132,7 +131,7 @@ Le prime prove serviranno anche a familiarizzare con la gestione dello sforzo. N
 
 
 
-
+***
 #### Letture scientifiche
 
 - Hajoglou, A., Foster, C., de Koning, J. J., Lucia, A., Kernozek, T. W., & Porcari, J. P. (2005). Effect of warm-up on cycle time trial performance. *Medicine & Science in Sports & Exercise, 37*(9), 1608–1614.  
