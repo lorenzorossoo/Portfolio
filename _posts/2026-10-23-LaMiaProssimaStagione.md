@@ -161,16 +161,40 @@ Ripeterò la stessa batteria nei successivi momenti di valutazione, mantenendo i
 
 Le prime prove serviranno anche a familiarizzare con la gestione dello sforzo. Non interpreterò quindi ogni piccola variazione come un adattamento: confronterò prima le prestazioni realmente misurate, poi i parametri ricavati dal modello e le condizioni in cui saranno stati ottenuti.
 
+### I risultati dei primi test
 
+La tabella riporta le potenze medie e le frequenze cardiache registrate nelle tre prove. Per il calcolo della potenza relativa ho utilizzato un peso corporeo di 60,3 kg.
 
+| Test | Potenza media (W) | Potenza relativa (W/kg) | FC media (bpm) | FC max (bpm) |
+| ------ | ----------------- | ----------------------- | -------------- | ------------ |
+| 3 min | 278 | 4,61 | 175 | 191 |
+| 5 min | 242 | 4,01 | 171 | 188 |
+| 12 min | 227 | 3,76 | 179 | 195 |
 
+Inserendo le potenze medie delle tre prove nel calcolatore, ho ottenuto questi risultati:
 
+- CP: 206,7 W;
+- W′: 12,3 kJ;
+- FTP stimata dall’applicativo: 198,5 W.
 
+Nelle settimane precedenti avevo anche eseguito un ramp test, dal quale era emersa una FTP stimata di 195 W: un valore inferiore di 3,5 W, pari a circa l’1,8%, rispetto ai 198,5 W proposti dal calcolatore. La differenza percentuale è calcolata prendendo come riferimento la stima dell’applicativo.
 
+Le due stime della FTP sono quindi vicine, ma questo confronto non permette di concludere che il ramp test abbia effettivamente sottostimato il mio valore reale: nessuno dei due risultati rappresenta una misura di riferimento indipendente. Per ora considero questa vicinanza una **concordanza** tra due stime ottenute con procedure diverse, mantenendo distinta la CP di 206,7 W dalla FTP proposta dall’applicativo.
 
+Questi risultati costituiscono il riferimento iniziale della stagione. Nei prossimi confronti partirò dalle potenze effettivamente espresse sui 3, 5 e 12 minuti, per poi valutare le variazioni di CP e W′ insieme alle condizioni di prova e alle sensazioni registrate.
 
+### Come organizzerò gli allenamenti da ora in poi
 
+Da questo momento, la settimana di allenamento sarà organizzata attorno a tre attività: ciclismo, calcio e lavoro in sala pesi. La struttura prevista comprenderà:
 
+- un allenamento di calcio e una partita;
+- due allenamenti sui rulli;
+- un’uscita outdoor a bassa intensità;
+- due sedute in sala pesi.
+
+Per il ciclismo seguirò un’impostazione di **periodizzazione inversa**: in questa prima fase darò priorità a lavori brevi ad alta intensità sui rulli, anziché partire da un elevato volume di lavoro a bassa intensità. L’uscita outdoor sarà invece dedicata a un lavoro meno intenso e più continuo.
+
+Le due sedute in sala pesi accompagneranno il lavoro in bici e gli impegni calcistici. Questa sarà la struttura di partenza, non uno schema rigido: la distribuzione delle sedute e il loro contenuto verranno adattati nel corso delle settimane in base al recupero, alle sensazioni e agli impegni.
 
 ***
 #### Letture scientifiche
