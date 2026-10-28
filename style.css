@@ -298,7 +298,8 @@ a:hover {
 .about-profile-image {
   display: block;
   width: 100%;
-  height: 260px;
+  height: auto;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   object-position: center;
   border-radius: 8px;
