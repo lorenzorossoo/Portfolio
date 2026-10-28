@@ -12,7 +12,7 @@ excerpt: "Cosa farò, come organizzerò gli allenamenti e perché: le scelte per
 
 Prima di parlare di allenamenti, volumi e obiettivi, voglio spiegare da dove arriveranno i dati che utilizzerò per raccontare questa stagione. Non soltanto i watt delle singole uscite, ma anche le informazioni raccolte nella vita quotidiana, che mi aiuteranno a contestualizzare le prestazioni e le sensazioni.
 
-Il dispositivo che mi accompagna durante la giornata è un Garmin Forerunner 955 (con una possibile conversione a Garmin Cirqa, rimanendo comunque nell'ecosistema con lo stesso sensore). Tra le informazioni disponibili ci sono:
+Il dispositivo che mi accompagna durante la giornata è un Garmin Forerunner 955, con un possibile passaggio a Garmin Cirqa, rimanendo comunque nell’ecosistema Garmin. Tra le informazioni disponibili ci sono:
 
 - frequenza cardiaca durante la giornata e a riposo;
 - HRV;
@@ -23,10 +23,13 @@ Il dispositivo che mi accompagna durante la giornata è un Garmin Forerunner 955
 
 A queste informazioni si aggiungono gli indicatori legati all’allenamento, come il carico acuto, il tempo di recupero e la Training Readiness. Quest’ultima combina dati sul sonno, stato dell’HRV, carico recente e stress per fornire una stima della disponibilità ad allenarsi. Non sono quindi misure tutte indipendenti: alcuni punteggi riassumono informazioni già presenti negli altri parametri.
 
-L’idea non è trasformare il punteggio dell’orologio in un semaforo che decide automaticamente come allenarmi. Anzi verrà usato per vedere le tendenze dei valori, per capire se il lavoro sta funzionando o meno. Il valore sarà sempre preso grezzo per poi analizzarlo io in prima persona.
+L’idea non è trasformare il punteggio dell’orologio in un semaforo che decide automaticamente come allenarmi. Utilizzerò questi dati soprattutto per osservare le tendenze nel tempo e affiancarle alle prestazioni e alle sensazioni, senza delegare ai punteggi sintetici l’interpretazione del mio stato di recupero.
+
+Durante **tutti gli allenamenti**, comprese le sedute di calcio e le partite, la frequenza cardiaca viene registrata tramite una fascia cardio Garmin HRM 600. Terrò quindi distinta la rilevazione quotidiana effettuata dall’orologio da quella effettuata con la fascia durante l’attività sportiva.
 
 Per le uscite in bici all’aperto utilizzo un Garmin Edge 830, abbinato a un misuratore di potenza INPEAK. Negli allenamenti indoor utilizzo invece un rullo Van Rysel D500, insieme al misuratore di potenza SRAM Quarq montato sulla bici.
->NB: Sul rullo utilizzo una bici destinata solo a quello scopo, sono state riportate le stesse misure della bici da outdoor, per non ritrovare differenze nella cinematica di pedalata
+
+> NB: sui rulli utilizzo una bici dedicata esclusivamente all’allenamento indoor, sulla quale ho riportato le stesse misure della bici da outdoor, con l’obiettivo di mantenere una posizione in sella il più possibile equivalente.
 
 ## I primi test: costruire un riferimento
 
