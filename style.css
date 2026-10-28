@@ -283,7 +283,7 @@ a:hover {
 }
 
 .about-image {
-  flex: 0.9;
+  flex: 1;
 }
 
 .about-text {
@@ -298,10 +298,9 @@ a:hover {
 .about-profile-image {
   display: block;
   width: 100%;
-  height: auto;
-  aspect-ratio: 4 / 3;
+  height: 420px;
   object-fit: cover;
-  object-position: center;
+  object-position: center 25%;
   border-radius: 8px;
 }
 
@@ -858,4 +857,9 @@ table td {
 
 table th {
   font-weight: 600;
+}
+
+.about-profile-image {
+  height: 320px;
+  object-position: center 25%;
 }
