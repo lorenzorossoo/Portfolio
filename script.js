@@ -65,3 +65,31 @@ document.addEventListener('DOMContentLoaded', function () {
 
   setTimeout(hideSplash, 3000);
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+  const form = document.getElementById('contact-form');
+  if (!form) return;
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const endpoint = form.getAttribute('data-formspree');
+    const formData = new FormData(form);
+
+    fetch(endpoint, {
+      method: 'POST',
+      body: formData,
+      headers: { 'Accept': 'application/json' }
+    })
+      .then(function (response) {
+        if (response.ok) {
+          window.location.href = '{{ "/grazie/" | relative_url }}';
+        } else {
+          window.location.href = '{{ "/errore/" | relative_url }}';
+        }
+      })
+      .catch(function () {
+        window.location.href = '{{ "/errore/" | relative_url }}';
+      });
+  });
+});
