@@ -1,86 +1,54 @@
-# Sito web personale - Nome Rosso, Chinesiologo
+# Rouge Lab — Restyling Editorial / Atmosphere
 
-Sito con GitHub Pages + Jekyll: ti permette di scrivere gli articoli del blog in
-Markdown (.md) invece che in HTML, con ordinamento automatico per data.
+Progetto Jekyll completo. Testi e servizi originali mantenuti; nuova identità visiva bordeaux, carbone e avorio, con sfondi originali sfumati e materici.
 
-## Struttura file
-- index.html            -> homepage (chi sono, servizi a card scorrevoli, anteprima blog, contatti)
-- blog.html             -> elenco completo di tutti gli articoli (generato automaticamente da Jekyll)
-- _posts/                -> cartella dove scrivi i tuoi articoli in Markdown
-- _layouts/default.html  -> struttura comune di ogni pagina (navbar, footer)
-- _layouts/post.html     -> struttura di ogni singolo articolo del blog
-- _config.yml            -> configurazione generale del sito
-- style.css              -> stile grafico e palette colori
-- script.js              -> menu mobile
+## Pubblicazione
+1. Estrai lo ZIP.
+2. Apri la cartella Portfolio e copia il suo CONTENUTO nella root del repository esistente, sostituendo i file omonimi. Non creare una seconda cartella Portfolio nel repository.
+3. Conserva eventuali file del repository non presenti nell'archivio, ad esempio CNAME o workflow GitHub personalizzati. Non erano inclusi nei materiali forniti.
+4. Esegui commit e push con la modalità di pubblicazione già in uso.
+5. Controlla la build in GitHub Actions e verifica il sito pubblicato.
 
-## IMPORTANTE: come attivare Jekyll su GitHub Pages
-Jekyll e' GIA' integrato in GitHub Pages, non devi installare nulla per pubblicare.
-Basta che il repository contenga questi file esattamente con questi nomi
-(incluso il underscore iniziale di _posts e _layouts) e GitHub li elabora da solo
-ad ogni push. Vai su Settings > Pages e assicurati che la source sia
-"Deploy from a branch", branch main, cartella / (root) - esattamente come gia'
-configurato prima.
+La configurazione è per https://lorenzorossoo.github.io/Portfolio. Per un dominio differente modifica url e baseurl in _config.yml. Alcuni link originali negli articoli includono /Portfolio: aggiornali se cambi dominio o percorso.
 
-## Come scrivere un nuovo articolo (in Markdown, da VS Code)
+## Struttura
+- _config.yml: configurazione Jekyll (underscore necessario)
+- _layouts/default.html: shell comune e metadati
+- _layouts/post.html: articoli
+- _posts/: quattro articoli originali
+- index.html: home, servizi, contatti
+- blog.html: archivio
+- style.css: nuovo design responsive
+- script.js: menu accessibile e modulo contatti
+- assets/homePage/: foto, logo, favicon
+- assets/everesting/: foto e altimetria
+- assets/design/: sfondo originale e texture
 
-1. Nella cartella "_posts", crea un nuovo file con questo schema di nome:
-   AAAA-MM-GG-titolo-breve.md
-   Esempio: 2026-10-05-test-vo2max-atleta.md
-   (la data nel nome del file e' quella che Jekyll usa per ORDINARE gli articoli
-   automaticamente dal piu' recente al meno recente: non devi spostare nulla a mano)
+## Modifiche
+- Nuova homepage scura, tipografia editoriale e fotografia ad arco.
+- Sezioni chiare avorio per la lettura, servizi numerati in griglia, blog e articoli uniformati.
+- Modulo e footer scuri coordinati; splash iniziale rimosso.
+- Formspree originale conservato. Fallback HTML senza JavaScript; errori AJAX mostrati nel modulo, mantenendo il testo. Il fallback senza JavaScript usa la risposta di Formspree, non la pagina grazie locale.
+- Percorsi immagini corretti in base ai file effettivamente forniti.
+- Metadati social dinamici, canonical e caricamenti duplicati rimossi.
+- Font Google con fallback locali; il sito rimane leggibile senza rete ma l'aspetto tipografico può variare.
+- Nessuna libreria JS esterna, nessun tracker aggiunto.
 
-2. All'inizio del file scrivi questo blocco (chiamato "front matter"), tra due righe di tre trattini:
+## Verifiche eseguite
+Controllo sintassi JavaScript con Node, riferimenti alle immagini, bilanciamento CSS e rendering Chromium di una copia statica della homepage a 1440 e 390 px: nessun overflow orizzontale o immagine mancante; apertura menu e chiusura con Escape controllate.
+Le anteprime allegate sono ottenute da questa copia statica: non sostituiscono la build Jekyll. Non è stata eseguita una build Jekyll perché Ruby non è disponibile nell'ambiente. Non sono stati inviati messaggi reali né verificati endpoint Formspree o pubblicazione online. Privacy originale non sottoposta a revisione legale.
+
+## Design condiviso con Instagram
+Colori in :root di style.css: bordeaux #78162F, carbone #141214, avorio #F5F1E9, corallo #E9A18C.
+Fraunces per titoli e accenti corsivi, Inter per testi e dati. Lo sfondo originale assets/design/rouge-atmosphere.jpg può fungere da base per future copertine social. Non sono inclusi template Instagram già impaginati.
+
+## Articoli
+Crea un file _posts/AAAA-MM-GG-titolo.md con front matter:
 
 ---
-title: "Il titolo del tuo articolo"
-date: 2026-10-05
-excerpt: "Una frase breve che riassume l'articolo, comparira' nell'elenco del blog."
+title: "Titolo"
+date: AAAA-MM-GG
+excerpt: "Breve descrizione"
 ---
 
-3. Sotto, scrivi il contenuto in Markdown semplice:
-   - Un titolo di sezione: ## Nome sezione
-   - Testo normale: scrivilo cosi' com'e', a capo per un nuovo paragrafo
-   - Grassetto: **testo**
-   - Corsivo: *testo*
-   - Immagine: ![descrizione](/assets/nome-file.jpg)
-     (metti prima l'immagine dentro la cartella assets/)
-   - Link: [testo del link](https://indirizzo.com)
-
-4. Salva il file.
-
-5. Da VS Code: Source Control > stage changes > scrivi messaggio di commit
-   (es. "Nuovo articolo: test VO2max") > Commit > Push.
-
-6. Il sito online si aggiorna da solo in 1-3 minuti. Il nuovo articolo comparira'
-   automaticamente in cima al blog (index.html mostra sempre il piu' recente,
-   blog.html li mostra tutti in ordine di data) senza che tu debba modificare
-   altri file a mano.
-
-## Card servizi scorrevoli (mobile-friendly)
-
-Nella sezione Servizi, le card ora scorrono lateralmente (swipe su mobile,
-scroll con mouse/trackpad su desktop) grazie a CSS scroll-snap, senza bisogno
-di librerie JavaScript esterne. Per modificare o aggiungere un servizio, apri
-index.html e cerca il blocco <div class="services-scroller">: ogni card e' un
-blocco <div class="service-card">...</div>, puoi copiarne uno e modificarlo per
-aggiungerne un altro.
-
-## Come personalizzare il resto del sito
-1. Sostituisci "Nome Rosso" con il tuo nome reale in index.html, blog.html,
-   _layouts/default.html e _layouts/post.html.
-2. Sostituisci i contatti placeholder (email, WhatsApp, Instagram, Strava, LinkedIn)
-   in index.html.
-3. Sostituisci i riquadri grigi "image-placeholder" con le tue foto reali:
-   <img src="/assets/tuafoto.jpg" alt="Nome Rosso" style="width:100%; border-radius:6px;">
-4. Per il modulo di contatto funzionante, registrati gratis su https://formspree.io,
-   crea un form e sostituisci YOUR_FORM_ID nell'attributo action del tag <form>.
-
-## Note tecniche
-- Non serve installare Ruby o Jekyll sul tuo Mac per pubblicare: il "build" avviene
-  sui server di GitHub ad ogni push. Se in futuro vuoi vedere in anteprima le
-  modifiche in locale prima di pubblicarle, serve installare Jekyll via Ruby,
-  ma non e' obbligatorio.
-- Se noti che il sito non si aggiorna dopo un push, controlla la tab "Actions"
-  del repository su GitHub: mostra se la build di Jekyll e' andata a buon fine
-  o se c'e' un errore di formattazione nel front matter di un articolo
-  (es. i tre trattini scritti male, o le virgolette dimenticate nel titolo).
+Scrivi il corpo in Markdown. Il layout post è assegnato dalla configurazione. Per immagini usa relative_url di Jekyll evitando percorsi con baseurl scritto a mano.

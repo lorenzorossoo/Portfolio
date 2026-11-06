@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 <section class="section" style="padding-top: 70px;">
   <div class="container">
-    <h2>Blog</h2>
+    <h1 class="page-title">Blog<span class="accent">.</span></h1>
     <p class="section-intro" style="text-align: left; margin-left: 0;">Pubblico articoli occasionali su test fatti con gli atleti, miglioramenti misurati, casi pratici o riflessioni che meritano di essere condivise. Niente contenuti riempitivo, solo cio' che ha davvero un dato, un risultato o una riflessione dietro.</p>
 
     <div class="blog-list">
@@ -15,7 +15,7 @@ permalink: /blog/
           <div class="blog-item-title">{{ post.title }}</div>
           <div class="blog-item-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
         </div>
-        <div class="blog-item-date">{{ post.date | date: "%B %Y" }}</div>
+        <div class="blog-item-date">{{ post.date | date: "%d.%m.%Y" }}</div>
       </a>
       {% endfor %}
     </div>

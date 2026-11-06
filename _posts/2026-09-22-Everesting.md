@@ -215,7 +215,7 @@ Era perfetta per un Everesting.
 
 Una salita abbastanza lunga, regolare, senza pendenze impossibili, che conoscevo già molto bene. Ma soprattutto una salita che mi piaceva davvero. Avrei dovuto percorrerla decine di volte: tanto valeva scegliere un posto che conoscevo e che mi facesse piacere vedere anche dopo la prima, la quinta o la decima volta.
 
-![Altimetria Chalet Le Marmotte](/Portfolio/assets/everesting/altimetria1400Marmotte.png)
+![Altimetria Chalet Le Marmotte](/Portfolio/assets/everesting/altimetria1400Marmotte.jpg)
 *Profilo altimetrico della salita da Limone 1400 a Chalet Le Marmotte.*
 
 ### Una follia per festeggiare la laurea
@@ -284,7 +284,7 @@ Avevo smesso di pensare a quanto mancava e avevo iniziato semplicemente a pedala
 
 Una salita alla volta.
 
-![Il gruppetto](/Portfolio/assets/everesting/gruppoEveresting.JPG)
+![Il gruppetto](/Portfolio/assets/everesting/gruppoEveresting.jpg)
 *Durante la giornata si sono alternati diversi amici: qualcuno per poche salite, qualcuno per molto più tempo.*
 
 ### L'ultimo giro

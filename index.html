@@ -13,10 +13,10 @@ title: Home
         runner e atleti che vogliono capire, non solo allenarsi
       </h1>
 
-      <div class="hero-image hero-image-mobile">
+      <div class="hero-image hero-image-mobile" aria-hidden="true">
         <img
-          src="{{ '/assets/homePage/imgSport.JPG' | relative_url }}"
-          alt="Lorenzo Rosso in bicicletta"
+          src="{{ '/assets/homePage/imgSport.jpg' | relative_url }}"
+          alt="Lorenzo Rosso in bicicletta" width="1080" height="1559"
         >
       </div>
 
@@ -34,8 +34,8 @@ title: Home
 
     <div class="hero-image hero-image-desktop">
       <img
-        src="{{ '/assets/homePage/imgSport.JPG' | relative_url }}"
-        alt="Lorenzo Rosso in bicicletta"
+        src="{{ '/assets/homePage/imgSport.jpg' | relative_url }}"
+        alt="Lorenzo Rosso in bicicletta" width="1080" height="1559"
       >
     </div>
   </div>
@@ -48,9 +48,9 @@ title: Home
     <div class="about-inner">
   <div class="about-image">
     <img
-      src="{{ '/assets/homePage/imgLaurea.jpeg' | relative_url }}"
+      src="{{ '/assets/homePage/imgLaurea.jpg' | relative_url }}"
       alt="Lorenzo Rosso, chinesiologo"
-      class="about-profile-image"
+      class="about-profile-image" loading="lazy" width="1080" height="1626"
     >
   </div>
 
@@ -171,7 +171,7 @@ title: Home
           </div>
 
           <div class="blog-item-date">
-            {{ post.date | date: "%B %Y" }}
+            {{ post.date | date: "%d.%m.%Y" }}
           </div>
         </a>
       {% endfor %}
@@ -238,13 +238,15 @@ title: Home
     <form
   id="contact-form"
   class="contact-form"
+  action="https://formspree.io/f/mqpaarrk" method="post"
+  data-success="{{ '/grazie/' | relative_url }}"
   data-formspree="https://formspree.io/f/mqpaarrk"
 >
   <label for="nome">Nome</label>
-  <input type="text" id="nome" name="nome" required>
+  <input autocomplete="name" type="text" id="nome" name="nome" required>
 
   <label for="email">Email</label>
-  <input type="email" id="email" name="email" required>
+  <input autocomplete="email" type="email" id="email" name="email" required>
 
   <label for="messaggio">Messaggio</label>
   <textarea id="messaggio" name="messaggio" rows="5" required></textarea>
@@ -257,6 +259,7 @@ title: Home
   <button type="submit" class="btn-primary full-width">
     Invia messaggio
   </button>
+<p id="form-status" class="form-status" role="status" aria-live="polite"></p>
 </form>
   </div>
 </section>
