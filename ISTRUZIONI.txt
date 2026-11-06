@@ -1,24 +1,13 @@
-ROUGE LAB — PACCHETTO CONSOLIDATO FINALE
+RIFINITURE HOMEPAGE
 
-Questo pacchetto riunisce il restyling, FAQ e modalità di lavoro, pagina 404, privacy e font locali. Non servono i precedenti ZIP.
+Aggiornamento parziale per il progetto Rouge-Lab-Finale-Consolidato, non un sito completo.
 
-IMPORTANTE: i font TTF e le licenze che hai già caricato su GitHub NON sono dentro lo ZIP. Devi conservarli nel progetto e nel repository. Non cancellare o sostituire l'intera cartella assets con una copia che non contiene fonts.
+1. Sostituisci index.html nella root del progetto con quello fornito.
+2. Aggiungi mobile-refinements.css nella stessa cartella di style.css.
+3. Commit e push, attendi la pubblicazione.
 
-1. Estrai lo ZIP.
-2. Copia il CONTENUTO della cartella Portfolio nella root del progetto esistente, unendo le cartelle e sostituendo i file omonimi.
-3. La struttura finale deve conservare assets/fonts con:
-   Fraunces-Italic-Variable.ttf
-   Fraunces-Variable.ttf
-   Inter-Variable.ttf
-   OFL-Fraunces.txt
-   OFL-Inter.txt
-4. Conserva .git, eventuali CNAME e workflow personalizzati. Non creare Portfolio/Portfolio.
-5. Leggi NOTE-PRIVACY.md prima di pubblicare la nuova informativa.
-6. Commit e push, poi attendi la conclusione della pubblicazione in Actions.
-7. Controlla homepage, foto, cinque FAQ prima dei contatti, menu, pagina inesistente e fai un invio reale dal modulo.
+Non sostituire style.css, fonts.css, script.js, layout, privacy o assets/fonts. index.html richiama automaticamente il piccolo foglio di stile aggiuntivo solo per la homepage, dopo gli stili generali.
 
-La foto della homepage è imgSport.JPG con estensione MAIUSCOLA. Entrambi i richiami HTML sono coerenti.
+Modifiche: rimosso 01/ da Chi sono; scorrimento orizzontale dei quattro servizi soltanto fino a 760 px; avvertenza dati sanitari spostata dopo la textarea e prima della nota privacy. FAQ e Come lavoriamo conservati. Griglia desktop invariata. La numerazione interna dei servizi e dei tre passi resta perché è una sequenza completa, non il numero isolato della sezione.
 
-In caso di copia tramite Finder: unisci le cartelle, non sostituire/eliminare l'intera assets. Se non viene proposta l'unione, copia le sottocartelle homePage, everesting, design, social e lascia intatta fonts.
-
-Il codice del sito non richiede più Google Fonts. Per verificare i font dopo il deploy: strumenti sviluppatore, Network, ricarica e filtra .ttf. Devono caricarsi dal tuo sito e non da fonts.googleapis.com/fonts.gstatic.com.
+Non sono state modificate impostazioni privacy o font. Font e fotografie restano quelli del progetto esistente. Test di struttura e scorrimento eseguiti su un fixture locale con le regole rilevanti del CSS consolidato, non su una build Jekyll completa del sito pubblicato.

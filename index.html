@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<!-- Rifiniture limitate alla homepage; gli altri stili restano invariati. -->
+<link rel="stylesheet" href="{{ '/mobile-refinements.css' | relative_url }}">
+
 <section id="home" class="hero">
   <div class="container hero-inner">
     <div class="hero-text">
@@ -89,14 +92,14 @@ title: Home
 
 <section id="servizi" class="section alt">
   <div class="container">
-    <h2 class="center">Servizi</h2>
+    <h2 class="center" id="services-title">Servizi</h2>
 
     <p class="section-intro">
       Percorsi personalizzati per ciclisti, runner e persone che si allenano in
       palestra, basati su valutazione, dati e ricerca scientifica.
     </p>
 
-    <div class="services-scroller">
+    <div class="services-scroller" tabindex="0" role="region" aria-labelledby="services-title" aria-describedby="services-hint">
       <div class="service-card">
         <span class="tag">Ciclismo</span>
         <h3>Coaching ciclismo</h3>
@@ -136,8 +139,8 @@ title: Home
       </div>
     </div>
 
-    <p class="scroller-hint">
-      &larr; Scorri per vedere tutti i servizi &rarr;
+    <p class="scroller-hint" id="services-hint">
+      Scorri lateralmente per vedere tutti i servizi &rarr;
     </p>
   </div>
 </section>
@@ -256,9 +259,9 @@ title: Home
   <label for="email">Email</label>
   <input autocomplete="email" type="email" id="email" name="email" required>
 
-  <p id="contact-data-note" class="privacy-note">Questo modulo è dedicato al primo contatto: descrivi il tuo obiettivo senza inserire diagnosi, referti o altri dati sulla salute.</p>
   <label for="messaggio">Messaggio</label>
   <textarea id="messaggio" name="messaggio" rows="5" aria-describedby="contact-data-note" required></textarea>
+  <p id="contact-data-note" class="privacy-note">Questo modulo è dedicato al primo contatto: descrivi il tuo obiettivo senza inserire diagnosi, referti o altri dati sulla salute.</p>
 
   <p class="privacy-note">
     Per sapere come vengono trattati i dati del tuo messaggio, consulta la
