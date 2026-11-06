@@ -116,16 +116,7 @@ title: Home
         </p>
       </div>
 
-      <div class="service-card">
-        <span class="tag">Bike fitting</span>
-        <h3>Bike fitting &amp; analisi pedalata</h3>
-        <p>
-          Valutazione della postura in sella e della biomeccanica di pedalata
-          per migliorare efficienza e prevenire infortuni.
-        </p>
-      </div>
-
-      <div class="service-card">
+<div class="service-card">
         <span class="tag">Palestra</span>
         <h3>Personal training</h3>
         <p>
@@ -185,6 +176,22 @@ title: Home
   </div>
 </section>
 
+<section id="come-lavoro" class="section">
+ <div class="container"><p class="eyebrow">Il percorso / Insieme</p><h2>Come lavoriamo</h2>
+ <p class="section-intro">Coaching ciclismo, corsa e personal training: in presenza a Cuneo e online.</p>
+ <div class="work-grid">
+ <div><span class="step-number">01</span><h3>Partiamo da un confronto</h3><p>Scrivimi via email o dal modulo. I confronti iniziali per scegliere il piano sono gratuiti: parliamo di obiettivi, disponibilità e del percorso più adatto.</p></div>
+ <div><span class="step-number">02</span><h3>Un piano per la tua realtà</h3><p>Costruiamo il lavoro attorno alla disciplina, agli obiettivi e al tempo che puoi dedicare all’allenamento, online oppure in presenza a Cuneo.</p></div>
+ <div><span class="step-number">03</span><h3>Restiamo in contatto</h3><p>Il confronto continua durante il percorso. Dati, sensazioni e difficoltà ci aiutano a capire cosa funziona e cosa va adattato.</p></div>
+ </div></div></section>
+<section id="faq" class="section alt"><div class="container faq-container"><p class="eyebrow">Prima di iniziare</p><h2>Domande frequenti</h2>
+ <details><summary>Posso essere seguito anche online?</summary><p>Sì. Coaching ciclismo, coaching corsa e personal training sono disponibili sia online sia in presenza a Cuneo. Nel primo confronto scegliamo la modalità adatta.</p></details>
+ <details><summary>Il primo contatto è gratuito?</summary><p>Sì. Il primo contatto avviene via email e i successivi confronti per scegliere il piano sono gratuiti. Contattarmi non ti obbliga ad acquistare un percorso.</p></details>
+ <details><summary>Quali strumenti mi servono per ciclismo e corsa?</summary><p>Per i percorsi endurance lo strumento minimo richiesto è una fascia cardio. Nel ciclismo il misuratore di potenza è consigliato, ma non obbligatorio. Per il personal training gli strumenti vengono concordati in base al contesto.</p></details>
+ <details><summary>Come ci confrontiamo durante il percorso?</summary><p>Il contatto è continuativo: confrontarci su allenamenti, sensazioni e impegni aiuta ad adattare il lavoro. Concordiamo canali e modalità all’avvio, in funzione del percorso.</p></details>
+ <details><summary>Cosa scrivo nel primo messaggio?</summary><p>La disciplina che pratichi, il tuo obiettivo, il tempo disponibile e se preferisci online o in presenza. Non inserire referti, diagnosi o altri dati sanitari: il modulo pubblico non è dedicato a raccoglierli.</p></details>
+</div></section>
+
 <section id="contatti" class="section alt">
   <div class="container contact-inner">
     <div class="contact-text">
@@ -196,6 +203,7 @@ title: Home
         allenamento su misura.
       </p>
 
+      <p><a class="contact-email" href="mailto:itsrougelab@gmail.com">itsrougelab@gmail.com ↗</a></p>
       <div class="social-icons">
         <a
           href="https://instagram.com/itsrougelab"
@@ -248,11 +256,12 @@ title: Home
   <label for="email">Email</label>
   <input autocomplete="email" type="email" id="email" name="email" required>
 
+  <p id="contact-data-note" class="privacy-note">Questo modulo è dedicato al primo contatto: descrivi il tuo obiettivo senza inserire diagnosi, referti o altri dati sulla salute.</p>
   <label for="messaggio">Messaggio</label>
-  <textarea id="messaggio" name="messaggio" rows="5" required></textarea>
+  <textarea id="messaggio" name="messaggio" rows="5" aria-describedby="contact-data-note" required></textarea>
 
   <p class="privacy-note">
-    Inviando il modulo accetti il trattamento dei tuoi dati secondo la
+    Per sapere come vengono trattati i dati del tuo messaggio, consulta la
     <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>.
   </p>
 

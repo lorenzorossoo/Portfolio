@@ -1,22 +1,24 @@
-AGGIORNAMENTO FONT LOCALI — ROUGE LAB
+ROUGE LAB — PACCHETTO CONSOLIDATO FINALE
 
-Questo ZIP è un aggiornamento PARZIALE del progetto precedente, non l'intero sito.
+Questo pacchetto riunisce il restyling, FAQ e modalità di lavoro, pagina 404, privacy e font locali. Non servono i precedenti ZIP.
 
-1. Copia fonts.css nella root del progetto, accanto a style.css.
-2. Sostituisci _layouts/default.html con quello fornito, mantenendo la cartella _layouts.
-3. Sostituisci privacy.html e NOTE-PRIVACY.md.
-4. NON sostituire o cancellare style.css, index.html, script.js, articoli, foto, 404 o assets/fonts.
-5. La cartella assets/fonts che hai già caricato deve contenere esattamente:
+IMPORTANTE: i font TTF e le licenze che hai già caricato su GitHub NON sono dentro lo ZIP. Devi conservarli nel progetto e nel repository. Non cancellare o sostituire l'intera cartella assets con una copia che non contiene fonts.
+
+1. Estrai lo ZIP.
+2. Copia il CONTENUTO della cartella Portfolio nella root del progetto esistente, unendo le cartelle e sostituendo i file omonimi.
+3. La struttura finale deve conservare assets/fonts con:
    Fraunces-Italic-Variable.ttf
    Fraunces-Variable.ttf
    Inter-Variable.ttf
    OFL-Fraunces.txt
    OFL-Inter.txt
-6. Commit e push; attendi il completamento della pubblicazione.
-7. Se hai ancora il vecchio README che descrive font remoti, quella nota è superata da questo aggiornamento.
+4. Conserva .git, eventuali CNAME e workflow personalizzati. Non creare Portfolio/Portfolio.
+5. Leggi NOTE-PRIVACY.md prima di pubblicare la nuova informativa.
+6. Commit e push, poi attendi la conclusione della pubblicazione in Actions.
+7. Controlla homepage, foto, cinque FAQ prima dei contatti, menu, pagina inesistente e fai un invio reale dal modulo.
 
-Il layout non carica più Google Fonts o i preconnect Google. La nuova privacy descrive i font locali, lasciando invariate le altre finalità e i servizi del precedente aggiornamento. Non viene aggiunto alcun tracker.
+La foto della homepage è imgSport.JPG con estensione MAIUSCOLA. Entrambi i richiami HTML sono coerenti.
 
-Verifiche dopo il deploy: in Strumenti sviluppatore > Network, ricarica la pagina e cerca .ttf: i tre file devono essere serviti dal tuo sito. Non devono esserci richieste a fonts.googleapis.com o fonts.gstatic.com. Non è sufficiente vedere il testo: i fallback possono nascondere un font mancante.
+In caso di copia tramite Finder: unisci le cartelle, non sostituire/eliminare l'intera assets. Se non viene proposta l'unione, copia le sottocartelle homePage, everesting, design, social e lascia intatta fonts.
 
-I percorsi in fonts.css sono relativi al CSS nella root e restano validi con /Portfolio. Nessun bisogno di rinominare le foto.
+Il codice del sito non richiede più Google Fonts. Per verificare i font dopo il deploy: strumenti sviluppatore, Network, ricarica e filtra .ttf. Devono caricarsi dal tuo sito e non da fonts.googleapis.com/fonts.gstatic.com.

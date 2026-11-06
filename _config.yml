@@ -15,6 +15,9 @@ defaults:
 
 exclude:
   - README.md
+  - NOTE-PRIVACY.md
+  - ISTRUZIONI.txt
+  - VERIFICHE.md
 
 plugins:
   - jekyll-sitemap
