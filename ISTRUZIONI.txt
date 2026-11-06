@@ -1,0 +1,22 @@
+AGGIORNAMENTO FONT LOCALI — ROUGE LAB
+
+Questo ZIP è un aggiornamento PARZIALE del progetto precedente, non l'intero sito.
+
+1. Copia fonts.css nella root del progetto, accanto a style.css.
+2. Sostituisci _layouts/default.html con quello fornito, mantenendo la cartella _layouts.
+3. Sostituisci privacy.html e NOTE-PRIVACY.md.
+4. NON sostituire o cancellare style.css, index.html, script.js, articoli, foto, 404 o assets/fonts.
+5. La cartella assets/fonts che hai già caricato deve contenere esattamente:
+   Fraunces-Italic-Variable.ttf
+   Fraunces-Variable.ttf
+   Inter-Variable.ttf
+   OFL-Fraunces.txt
+   OFL-Inter.txt
+6. Commit e push; attendi il completamento della pubblicazione.
+7. Se hai ancora il vecchio README che descrive font remoti, quella nota è superata da questo aggiornamento.
+
+Il layout non carica più Google Fonts o i preconnect Google. La nuova privacy descrive i font locali, lasciando invariate le altre finalità e i servizi del precedente aggiornamento. Non viene aggiunto alcun tracker.
+
+Verifiche dopo il deploy: in Strumenti sviluppatore > Network, ricarica la pagina e cerca .ttf: i tre file devono essere serviti dal tuo sito. Non devono esserci richieste a fonts.googleapis.com o fonts.gstatic.com. Non è sufficiente vedere il testo: i fallback possono nascondere un font mancante.
+
+I percorsi in fonts.css sono relativi al CSS nella root e restano validi con /Portfolio. Nessun bisogno di rinominare le foto.
