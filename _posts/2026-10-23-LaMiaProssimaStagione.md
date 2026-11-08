@@ -199,6 +199,67 @@ Per il ciclismo seguirò un’impostazione di **periodizzazione inversa**: in qu
 
 Le due sedute in sala pesi accompagneranno il lavoro in bici e gli impegni calcistici. Questa sarà la struttura di partenza, non uno schema rigido: la distribuzione delle sedute e il loro contenuto verranno adattati nel corso delle settimane in base al recupero, alle sensazioni e agli impegni.
 
+
+## Inizio
+### Settimana 45 - carico
+# Settimana 45 — Inizio della programmazione
+
+La settimana 45 è stata la prima settimana della mia programmazione. Purtroppo, la partenza non è stata delle migliori: un contrasto nell’ultima partita di calcio mi ha causato un problema alla caviglia destra, che ha condizionato alcuni allenamenti.
+
+Nonostante questo, sono soddisfatto del lavoro svolto. Ho mantenuto buona parte della programmazione, adattando alcune sedute alle condizioni della giornata e rinunciando al lavoro previsto quando non ritenevo opportuno svolgerlo.
+
+## La settimana in sintesi
+
+- 2 sedute di calcio: un allenamento e una partita.
+- 1 seduta in sala pesi dedicata all’upper body.
+- 5 pedalate principali: 2 uscite endurance outdoor e 3 sedute indoor di intensità.
+- 30 minuti di bike blanda il venerdì, al posto dell’over-under previsto.
+
+## Il dettaglio delle giornate
+
+### Lunedì — VO₂ e allenamento di calcio
+
+Seduta indoor con 3 ripetute da 3 minuti e una da 5 minuti dedicate al lavoro VO₂. In serata, allenamento di calcio svolto in modalità blanda per limitare le sollecitazioni sulla caviglia.
+
+### Martedì — Endurance e upper body
+
+Circa 4 ore di endurance outdoor, seguite da una seduta in sala pesi dedicata alla parte superiore del corpo.
+
+### Mercoledì — Intermittenti indoor
+
+Seduta indoor composta da 3 blocchi di 9 ripetizioni da 30 secondi di lavoro e 30 secondi di recupero.
+
+### Giovedì — Match day
+
+Giornata dedicata alla partita: circa 2 ore complessive, comprendenti riscaldamento, intervallo e defaticamento, con una frequenza cardiaca media di circa 160 bpm.
+
+### Venerdì — Adattamento del programma
+
+Era prevista una seduta over-under, ma, considerate le condizioni della giornata, ho preferito sostituirla con 30 minuti di bike blanda.
+
+### Sabato — Endurance outdoor
+
+Uscita di circa 2 ore e 40 minuti, a chiusura del lavoro settimanale in bicicletta.
+
+### Domenica — Riposo
+
+Giornata di riposo.
+
+## Volume, carico e distribuzione dell’intensità
+
+La settimana si è conclusa con 12 ore e 40 minuti di allenamento e un carico complessivo di 691 TSS.
+
+La distribuzione dell’intensità è stata piramidale, con queste percentuali nel modello a tre zone:
+
+| Zona | Percentuale |
+| --- | ---: |
+| Z1 | 67,1% |
+| Z2 | 24,8% |
+| Z3 | 8,1% |
+
+
+
+
 ***
 #### Letture scientifiche
 
