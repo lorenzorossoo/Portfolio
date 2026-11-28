@@ -4,14 +4,6 @@ baseurl: "/Portfolio"
 url: "https://lorenzorossoo.github.io"
 
 markdown: kramdown
-permalink: /blog/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
 
 exclude:
   - README.md

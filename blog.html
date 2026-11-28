@@ -2,22 +2,22 @@
 layout: default
 title: Blog
 permalink: /blog/
+noindex: true
+sitemap: false
 ---
-<section class="section" style="padding-top: 70px;">
+<section class="section">
   <div class="container">
-    <h1 class="page-title">Blog<span class="accent">.</span></h1>
-    <p class="section-intro" style="text-align: left; margin-left: 0;">Pubblico articoli occasionali su test fatti con gli atleti, miglioramenti misurati, casi pratici o riflessioni che meritano di essere condivise. Niente contenuti riempitivo, solo cio' che ha davvero un dato, un risultato o una riflessione dietro.</p>
+    <h2 class="center">Su Substack</h2>
 
-    <div class="blog-list">
-      {% for post in site.posts %}
-      <a href="{{ post.url | relative_url }}" class="blog-item">
-        <div class="blog-item-content">
-          <div class="blog-item-title">{{ post.title }}</div>
-          <div class="blog-item-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</div>
-        </div>
-        <div class="blog-item-date">{{ post.date | date: "%d.%m.%Y" }}</div>
+    <p class="section-intro">
+      Articoli occasionali su test, dati e casi reali &mdash; niente contenuti
+      di riempimento, solo ciò che merita di essere condiviso.
+    </p>
+
+    <p class="center" style="margin-top: 28px;">
+      <a href="https://rossolorenzo.substack.com" target="_blank" rel="noopener" class="btn-primary">
+        Leggi gli articoli su Substack &nearr;
       </a>
-      {% endfor %}
-    </div>
+    </p>
   </div>
 </section>
